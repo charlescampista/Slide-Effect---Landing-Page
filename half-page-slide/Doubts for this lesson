@@ -1,0 +1,51 @@
+What is javascript DOM?
+  *it's a model  that javascript use handle the html content.
+
+
+
+What is a landing page?
+  *Landing page is a website page that your customer arrive when he search
+  for some product or service that you provide, notice that it's not your home page,
+  your landing page should be direct and clear about the product or service that you provide, avoid unnecessary information, and distractions.
+
+
+
+What is overflow in css?
+  *Defines a behaivor for when the content is too big to fit in container.
+
+
+
+What is REM and EM units?
+  *Units defines that size of contents in your document, the most used is pixel (px),
+  REM and EM adjust the content size by the default size browser or div parent
+  result(px) = (x)em/rem  * default(px);
+    -REM is resized by default browser size.
+    -EM is resized by the parent tag.
+
+
+
+How does the css translate work?
+  *Traslate is a property of the css trasform animations, it basicaly move the element to other place (parameters x,y);
+
+
+
+What is css white-space?
+  *control the way of html handle pragraph's withe spaces and text.
+
+
+How does css position work?
+
+How does css trasform work?
+  *Transform is a css property that can be used to make simple animarions on css, like rotate, translate, scale etc.
+
+
+How does css display work;
+  *Every element on a web page is a rectangular box. The CSS display property determines how that rectangular box behaivor. 
+
+How does css before and after work (pseudo elements)?
+  *Pseudo elements enable you to manipulate and create contents from a class
+  ::before - handle contents that will be rendered before the class.
+  ::after - handle contents that will be handled after the class.
+
+How does css transition work?
+  transition is a time that takes for and animation be shown, it goes like this: transition: 0.5s(seconds) transform(what property will be affected).
